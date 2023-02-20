@@ -1,0 +1,1 @@
+python inference_realesrgan.py -n RealESRGAN_x4plus/RealESRGAN_x2plus(更快) -i inputs -s int(改变比例)
